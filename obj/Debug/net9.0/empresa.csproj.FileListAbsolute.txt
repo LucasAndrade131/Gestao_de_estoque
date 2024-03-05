@@ -1,0 +1,14 @@
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\bin\Debug\net9.0\empresa.exe
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\bin\Debug\net9.0\empresa.deps.json
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\bin\Debug\net9.0\empresa.runtimeconfig.json
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\bin\Debug\net9.0\empresa.dll
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\bin\Debug\net9.0\empresa.pdb
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.AssemblyInfoInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.AssemblyInfo.cs
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.dll
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\refint\empresa.dll
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.pdb
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\empresa.genruntimeconfig.cache
+C:\Users\lucas\OneDrive\Documentos\Senac\Projetos\empresa\obj\Debug\net9.0\ref\empresa.dll
